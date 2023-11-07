@@ -1,0 +1,9 @@
+locators\locators_main.class
+tasks\tasks_common.class
+step_definitions\testRunner.class
+pages\page_main.class
+step_definitions\main_page_steps.class
+locators\locators_account.class
+step_definitions\common_steps.class
+tasks\tasks_main.class
+pages\page_common.class
